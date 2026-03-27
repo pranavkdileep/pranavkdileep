@@ -1,0 +1,114 @@
+cv:
+  name: "Pranav K Dileep"
+  headline: "Computer Science & Cyber Security Student"
+  location: "Thrissur, India"
+  email: "pranavkdileepme@gmail.com"
+  phone: "+91 9544047655"
+  social_networks:
+    - network: "LinkedIn"
+      username: "pranavkdileep"
+    - network: "GitHub"
+      username: "pranavkdileep"
+  sections:
+    summary:
+      - |
+        Computer Science and Cyber Security student passionate about building secure, scalable systems. Experienced in developing websites and Android applications. Strong interest in backend engineering, networking, and security research, with the ability to learn new technologies quickly.
+    education:
+      - institution: "University College of Engineering, Thodupuzha"
+        area: "Cyber Security"
+        degree: "B.Tech"
+        start_date: "2022-08"
+        end_date: "2026-05"
+        location: "Kerala, India"
+        highlights:
+          - "CGPA: 7.96 / 10"
+      - institution: "Higher Secondary Education (12th – Computer Science)"
+        area: "Computer Science"
+        degree: "Higher Secondary"
+        start_date: "2020-06"
+        end_date: "2022-03"
+        location: "Kerala, India"
+        highlights:
+          - "Percentage: 82%"
+    projects:
+      - name: "Study Note AI Agent"
+        start_date: "2025-02"
+        end_date: "present"
+        highlights:
+          - "Developed an AI agent to generate comprehensive study notes from textbooks and images using OpenAI LLMs."
+          - "Integrated DeepSeek OCR for high-accuracy parsing of complex textbook layouts and document images."
+          - "Utilized Paperless RAG for document indexing and management to streamline the note-generation workflow."
+          - "Link: https://www.ktucyber.com/agents"
+      - name: "Deployer"
+        start_date: "2025-01"
+        end_date: "present"
+        highlights:
+          - "Self-hosted Docker-based hosting control panel to manage web applications, services, databases, SSL certificates, logs, and deployments from a clean web UI."
+          - "Utilized Docker and Nix build to build container images."
+          - "Open-source project with 30+ GitHub stars"
+          - "GitHub: https://github.com/pranavkdileep/Deployer"
+      - name: "DDoS Attack Detection Using Hybrid Deep Learning Model"
+        start_date: "2025-01"
+        end_date: "2025-01"
+        highlights:
+          - "Implemented a hybrid deep learning model using TensorFlow for detecting DDoS attacks in network traffic."
+          - "Built a CICFlowMeter in Go for real-time network flow monitoring on servers"
+          - "GitHub: https://github.com/pranavkdileep/CICFlowMeter-Go"
+      - name: "Real-Time Bus Tracker with GPS"
+        start_date: "2025-01"
+        end_date: "2025-01"
+        highlights:
+          - "End-to-end real-time bus location tracking system with Android apps, backend services, and custom IoT hardware."
+          - "User and conductor Android apps built with Kotlin & Jetpack Compose"
+          - "Custom IoT tracking device using ESP8266 and GPS module"
+          - "WebSocket for real-time location updates"
+      - name: "TeachersDiary"
+        start_date: "2025-01"
+        end_date: "2025-01"
+        highlights:
+          - "Web-based system for teachers to manage daily activities and attendance."
+          - "Role-based dashboards for Teachers, HOD, and Principal"
+          - "Implemented attendance tracking and reporting"
+          - "GitHub: https://github.com/pranavkdileep/TeachersDiary"
+      - name: "KTUcyber.com"
+        start_date: "2024-01"
+        end_date: "2024-01"
+        highlights:
+          - "Community platform for students to share study materials and collaborate."
+          - "Authentication, email verification, CRUD operations"
+          - "Bookmarking and follow/following system"
+          - "GitHub: https://github.com/pranavkdileep/ktucyber2.0"
+      - name: "TK-VPN"
+        start_date: "2023-01"
+        end_date: "2023-01"
+        highlights:
+          - "Android VPN application built using OpenVPN, focused on simplicity and ease of use."
+          - "Built in Java using OpenVPN core"
+          - "App Store: https://apps.samsung.com/appquery/appDetail.as?appId=com.pranavkd.freevpn"
+    skills:
+      - label: "Programming & Tools"
+        details: "Python, C++, Go, Java, JavaScript, TypeScript, Git, strong backend and systems programming knowledge"
+      - label: "Cloud & DevOps"
+        details: "Docker, self-hosted infrastructure, backend deployment, service monitoring, containerized environments"
+      - label: "Cyber Security & Networking"
+        details: "Network traffic analysis, DDoS detection, CICFlowMeter, secure system design, server monitoring"
+      - label: "Mathematics"
+        details: "Differential equations, calculus, linear algebra"
+      - label: "Languages"
+        details: "English and Malayalam (read, write, speak)"
+design:
+  theme: "engineeringresumes"
+locale:
+  language: "english"
+rendercv_settings:
+  bold_keywords:
+    - "Cyber Security"
+    - "Docker"
+    - "DDoS"
+    - "TensorFlow"
+    - "Go"
+    - "Android"
+    - "OpenAI"
+    - "DeepSeek OCR"
+    - "Paperless-ngx"
+    - "Nix build"
