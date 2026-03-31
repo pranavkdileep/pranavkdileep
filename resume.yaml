@@ -30,6 +30,17 @@ cv:
         location: "Kerala, India"
         highlights:
           - "Percentage: 82%"
+    experience:
+      - company: "ktucyber.com"
+        position: "Developer and Maintainer"
+        start_date: "2023-01"
+        end_date: "present"
+        highlights:
+          - "Lead full-stack development of the platform, ensuring a seamless user experience and robust backend functionality."
+          - "Managed cloud infrastructure and deployment pipelines, utilizing cloud storage solutions for efficient resource hosting."
+          - "Configured and maintained email delivery systems and optimized database management for high availability."
+          - "Implemented SEO strategies and marketing initiatives to drive user growth and platform visibility."
+          - "Established comprehensive system monitoring, automated backup management, and rigorous testing workflows to ensure stability."
     projects:
       - name: "Study Note AI Agent"
         start_date: "2025-02"
@@ -37,7 +48,7 @@ cv:
         highlights:
           - "Developed an AI agent to generate comprehensive study notes from textbooks and images using OpenAI LLMs."
           - "Integrated DeepSeek OCR for high-accuracy parsing of complex textbook layouts and document images."
-          - "Utilized Paperless RAG for document indexing and management to streamline the note-generation workflow."
+          - "Utilized Vectorless RAG for document indexing and management to streamline the note-generation workflow."
           - "Link: https://www.ktucyber.com/agents"
       - name: "Deployer"
         start_date: "2025-01"
@@ -112,3 +123,7 @@ rendercv_settings:
     - "DeepSeek OCR"
     - "Paperless-ngx"
     - "Nix build"
+    - "full stack"
+    - "cloud storage"
+    - "SEO"
+    - "backup management"
