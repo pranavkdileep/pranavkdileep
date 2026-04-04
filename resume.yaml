@@ -43,7 +43,7 @@ cv:
         start_date: "2025-01"
         end_date: "present"
         highlights:
-          - "Self-hosted Docker-based hosting control panel to manage web applications, services, databases, SSL certificates, logs, and deployments from a clean web UI."
+          - "Self-hosted Docker-based hosting control panel to manage web applications, services, databases, logs, and deployments from a clean web UI."
           - "Utilized Docker and Nixpacks to build container images."
           - "Open-source project with 45+ GitHub stars"
           - "GitHub: https://github.com/pranavkdileep/Deployer"
@@ -91,11 +91,9 @@ cv:
           - "Collaborated with backend services (CampusTracker Cloud backend) for full-stack system integration."
     skills:
       - label: "Programming & Tools"
-        details: "Python, C++, Go, Java, JavaScript, TypeScript, Git, strong backend and systems programming knowledge"
+        details: "Python, C++, Go, Java, JavaScript, TypeScript, Git"
       - label: "Cloud & DevOps"
         details: "Docker, self-hosted infrastructure, backend deployment, service monitoring, containerized environments"
-      - label: "Cyber Security & Networking"
-        details: "Network traffic analysis, DDoS detection, CICFlowMeter, secure system design, server monitoring"
       - label: "Soft Skills"
         details: "Problem-solving, analytical thinking, adaptability, teamwork, communication, quick learning ability, time management"
       - label: "Languages"
