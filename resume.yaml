@@ -1,6 +1,6 @@
 cv:
   name: "Pranav K Dileep"
-  headline: "Computer Science & Cyber Security Student"
+  headline: "Computer Science and Engineering (Cyber Security)"
   location: "Thrissur, India"
   email: "pranavkdileepme@gmail.com"
   phone: "+91 9544047655"
@@ -12,10 +12,10 @@ cv:
   sections:
     summary:
       - |
-        Computer Science and Cyber Security student passionate about building secure, scalable systems. Experienced in developing websites and Android applications. Strong interest in backend engineering, networking, and security research, with the ability to learn new technologies quickly.
+        Computer Science and Engineering (Cyber Security) student passionate about building secure, scalable systems. Experienced in developing websites and Android applications. Strong interest in backend engineering, networking, and security research, with the ability to learn new technologies quickly.
     education:
       - institution: "University College of Engineering, Thodupuzha"
-        area: "Cyber Security"
+        area: "Computer Science and Engineering (Cyber Security)"
         degree: "B.Tech"
         start_date: "2022-08"
         end_date: "2026-05"
@@ -31,6 +31,14 @@ cv:
         highlights:
           - "Percentage: 82%"
     projects:
+      - name: "Deployer (Vercel, coolify alternative)"
+        start_date: "2025-01"
+        end_date: "present"
+        highlights:
+          - "Self-hosted Docker-based hosting control panel to manage web applications, services, databases, logs, and deployments from a clean web UI."
+          - "Utilized Docker and Nixpacks to build container images."
+          - "Open-source project with 50+ GitHub stars"
+          - "GitHub: https://github.com/pranavkdileep/Deployer"
       - name: "Study Note AI Agent"
         start_date: "2025-02"
         end_date: "present"
@@ -39,14 +47,6 @@ cv:
           - "Integrated DeepSeek OCR for high-accuracy parsing of complex textbook layouts and document images."
           - "Utilized Vectorless RAG for document indexing and management to streamline the note-generation workflow."
           - "Link: https://www.ktucyber.com/agents"
-      - name: "Deployer"
-        start_date: "2025-01"
-        end_date: "present"
-        highlights:
-          - "Self-hosted Docker-based hosting control panel to manage web applications, services, databases, logs, and deployments from a clean web UI."
-          - "Utilized Docker and Nixpacks to build container images."
-          - "Open-source project with 45+ GitHub stars"
-          - "GitHub: https://github.com/pranavkdileep/Deployer"
       - name: "DDoS Attack Detection Using Hybrid Deep Learning Model"
         start_date: "2025-01"
         end_date: "present"
@@ -64,6 +64,16 @@ cv:
           - "User and conductor Android apps built with Kotlin & Jetpack Compose"
           - "Custom IoT tracking device using ESP8266 and GPS module"
           - "WebSocket for real-time location updates"
+      - name: "JobInPark"
+        start_date: "2025-05"
+        end_date: "present"
+        highlights:
+          - "AI-driven job discovery platform connecting tech park professionals with relevant openings through skill and domain matching."
+          - "Built with Next.js, React, TypeScript, Tailwind CSS v4, and MongoDB 7 — production-deployed at jobinpark.eu.cc"
+          - "Designed a workflow-driven notification system that orchestrates multi-user, multi-channel job alert dispatch using the workflow SDK."
+          - "Multi-channel notification system dispatching matched jobs via Email (Resend), Telegram bot, and WhatsApp — each channel handled as a step in a coordinated workflow."
+          - "Implemented JWT auth with httpOnly cookies, admin analytics dashboard, bulk job upload, and Docker Compose local dev setup."
+          - "GitHub: https://github.com/pranavkdileep/jobinpark"
       - name: "TeachersDiary"
         start_date: "2025-01"
         end_date: "2025-01"
