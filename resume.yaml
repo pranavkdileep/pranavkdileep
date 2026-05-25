@@ -69,9 +69,9 @@ cv:
         end_date: "present"
         highlights:
           - "AI-driven job discovery platform connecting tech park professionals with relevant openings through skill and domain matching."
-          - "Built with Next.js, React, TypeScript, Tailwind CSS v4, and MongoDB 7 — production-deployed at jobinpark.eu.cc"
+          - "Built with Next.js, React, TypeScript, Tailwind CSS v4, and MongoDB 7 production-deployed at jobinpark.eu.cc"
           - "Designed a workflow-driven notification system that orchestrates multi-user, multi-channel job alert dispatch using the workflow SDK."
-          - "Multi-channel notification system dispatching matched jobs via Email (Resend), Telegram bot, and WhatsApp — each channel handled as a step in a coordinated workflow."
+          - "Multi-channel notification system dispatching matched jobs via Email (Resend), Telegram bot, and WhatsApp each channel handled as a step in a coordinated workflow."
           - "Implemented JWT auth with httpOnly cookies, admin analytics dashboard, bulk job upload, and Docker Compose local dev setup."
           - "GitHub: https://github.com/pranavkdileep/jobinpark"
       - name: "TeachersDiary"
