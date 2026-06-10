@@ -12,7 +12,7 @@ cv:
   sections:
     summary:
       - |
-        Computer Science and Engineering (Cyber Security) student passionate about building secure, scalable systems. Experienced in developing websites and Android applications. Strong interest in backend engineering, networking, and security research, with the ability to learn new technologies quickly.
+        Computer Science and Engineering (Cyber Security) graduate passionate about building secure, scalable systems. Experienced in developing websites and Android applications. Strong interest in backend engineering, networking, and security research, with the ability to learn new technologies quickly.
     education:
       - institution: "University College of Engineering, Thodupuzha"
         area: "Computer Science and Engineering (Cyber Security)"
@@ -74,14 +74,14 @@ cv:
           - "Multi-channel notification system dispatching matched jobs via Email (Resend), Telegram bot, and WhatsApp each channel handled as a step in a coordinated workflow."
           - "Implemented JWT auth with httpOnly cookies, admin analytics dashboard, bulk job upload, and Docker Compose local dev setup."
           - "GitHub: https://github.com/pranavkdileep/jobinpark"
-      - name: "TeachersDiary"
-        start_date: "2025-01"
-        end_date: "2025-01"
+      - name: "Self-Hosted UPI Payment Gateway"
+        start_date: "2026-01"
+        end_date: "2026-01"
         highlights:
-          - "PHP Web-based system for teachers to manage daily activities and attendance."
-          - "Role-based dashboards for Teachers, HOD, and Principal"
-          - "Implemented attendance tracking and reporting"
-          - "GitHub: https://github.com/pranavkdileep/TeachersDiary"
+          - "Built a custom UPI payment gateway using Cloudflare Workers, D1, KV, Hono, and email-based transaction processing."
+          - "Automated real-time payment verification, order matching, timeout handling, and secure webhook delivery without third-party payment APIs."
+          - "Developed authenticated REST APIs and an operator dashboard for managing payments, orders, configuration, and system activity"
+          - "GitHub: https://github.com/pranavkdileep/simple-upi-payment-gateway"
       - name: "KTUcyber.com"
         start_date: "2024-01"
         end_date: "2024-01"
@@ -96,7 +96,6 @@ cv:
         highlights:
           - "Developed an Android client application for a cloud-based student management system, enabling seamless interaction with backend APIs."
           - "Integrated RESTful APIs using OkHttp for efficient and reliable network communication."
-          - "Built core modules including authentication (login), subject management, faculty operations, and bulk actions (attendance, marks, assignments)."
           - "Developed features for downloading academic resources and managing student-related data in real time."
           - "Collaborated with backend services (CampusTracker Cloud backend) for full-stack system integration."
     skills:
