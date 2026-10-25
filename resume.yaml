@@ -30,6 +30,19 @@ cv:
         location: "Kerala, India"
         highlights:
           - "Percentage: 82%"
+    experience:
+      - company: "Velvetek Systems"
+        position: "Full-Stack Developer Intern"
+        date:
+        start_date: "2026-07"
+        end_date: "present"
+        location: "Thrissur, India"
+        summary:
+        highlights:
+          - "Converted an internal task management application into a multi-tenant SaaS product by building a super-admin panel for tenant management and integrating a payment gateway for subscription billing."
+          - "Leveraged AI coding agents such as Claude Code for rapid software development, from feature implementation to debugging and refactoring."
+          - "Collaborating with the engineering team on database management, feature development, and deployments."
+          - "Contributed to a custom ERP software project by developing an order management module to aggregate orders from Shopify and multi-channel seller platforms; containerized and deployed the complete ERP system on a VPS using Docker."
     projects:
       - name: "Deployer (Vercel, coolify alternative)"
         start_date: "2025-01"
@@ -90,14 +103,14 @@ cv:
           - "Authentication, email verification, CRUD operations"
           - "Bookmarking and follow/following system"
           - "GitHub: https://github.com/pranavkdileep/ktucyber2.0"
-      - name: "CampusTracker"
-        start_date: "2023-12"
-        end_date: "2024"
-        highlights:
-          - "Developed an Android client application for a cloud-based student management system, enabling seamless interaction with backend APIs."
-          - "Integrated RESTful APIs using OkHttp for efficient and reliable network communication."
-          - "Developed features for downloading academic resources and managing student-related data in real time."
-          - "Collaborated with backend services (CampusTracker Cloud backend) for full-stack system integration."
+      # - name: "CampusTracker"
+      #   start_date: "2023-12"
+      #   end_date: "2024"
+      #   highlights:
+      #     - "Developed an Android client application for a cloud-based student management system, enabling seamless interaction with backend APIs."
+      #     - "Integrated RESTful APIs using OkHttp for efficient and reliable network communication."
+      #     - "Developed features for downloading academic resources and managing student-related data in real time."
+      #     - "Collaborated with backend services (CampusTracker Cloud backend) for full-stack system integration."
     skills:
       - label: "Programming & Tools"
         details: "Python, C++, Go, Java, JavaScript, TypeScript, Git"
